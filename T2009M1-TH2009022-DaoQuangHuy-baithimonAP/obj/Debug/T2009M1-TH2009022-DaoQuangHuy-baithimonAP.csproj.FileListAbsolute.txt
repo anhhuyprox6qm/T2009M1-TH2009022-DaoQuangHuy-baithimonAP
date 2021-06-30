@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\bin\Debug\T2009M1_TH2009022_DaoQuangHuy_baithimonAP.exe
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\bin\Debug\T2009M1_TH2009022_DaoQuangHuy_baithimonAP.pdb
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\obj\Debug\T2009M1-TH2009022-DaoQuangHuy-baithimonAP.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\obj\Debug\T2009M1-TH2009022-DaoQuangHuy-baithimonAP.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\obj\Debug\T2009M1_TH2009022_DaoQuangHuy_baithimonAP.exe
+C:\Users\asus\RiderProjects\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\T2009M1-TH2009022-DaoQuangHuy-baithimonAP\obj\Debug\T2009M1_TH2009022_DaoQuangHuy_baithimonAP.pdb
